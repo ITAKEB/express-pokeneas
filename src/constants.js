@@ -57,7 +57,7 @@ const sudowoodo = {
   name: "Sudowoodo",
   height: "1.19 m",
   skill: "meteor beam",
-  image: "https://storage.googleapis.com//tatehortuc-pokemon-images/pokemons/sudowoodo.png",
+  image: "https://storage.googleapis.com/tatehortuc-pokemon-images/pokemons/sudowoodo.png",
   sentence: "Sudowoodo's deceptive appearance reminds us of the dangers of making assumptions based solely on outward appearances."
 }
 
