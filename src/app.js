@@ -5,7 +5,7 @@ const {
 } = require("./controllers")
 
 const app = express();
-const PORT = 3000;
+const PORT = 80;
 
 app.get('/json/pokemon', get_pokemon_json)
 app.get('/html/pokemon', get_pokemon_html)
